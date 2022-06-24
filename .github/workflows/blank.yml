@@ -1,6 +1,6 @@
 name: CI
 
-on: [push]
+on: [push ]https://github.com/actions/starter-workflows/pull/1608#discussion_r901569284
 
 jobs:
   build:
